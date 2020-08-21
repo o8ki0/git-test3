@@ -1,2 +1,2 @@
 # github-test
-GitHub勉強用のリポジトリです
+GitHub勉強用のリポジトリです!!
