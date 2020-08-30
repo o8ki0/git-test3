@@ -1,2 +1,2 @@
 # github-test
-GitHub勉強用のリポジトリです!!
+横山　明紗子
